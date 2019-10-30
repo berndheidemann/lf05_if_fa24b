@@ -9,7 +9,7 @@ public class DiscountCalcTest {
     @Test
     public void given_2000_when_calc_Then_1800() {
         DiscountCalc discount=new DiscountCalc();
-        assertEquals(1800, discount.calc(2001));
+        assertEquals(1800, discount.calc(2000));
 
     }
 }
