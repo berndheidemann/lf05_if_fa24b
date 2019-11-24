@@ -1,0 +1,2 @@
+## Discount
+Während einer Sonderaktion wird ein Rabatt von 10% auf alle Einkäufe mit einem Gesamtbetrag von mehr als € 10.00 gewährt. Schreiben Sie ein Programm, das nach dem Gesamtbetrag fragt und den Discountpreis berechnet. Der Gesamtbetrag wird in Cent (als Ganzzahl) eingegeben. 

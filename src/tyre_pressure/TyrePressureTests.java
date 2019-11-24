@@ -4,12 +4,6 @@ import jdk.jfr.StackTrace;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-/*
-Es soll eine Klasse zur Berechnung des Reifendrucks eines Wagens erstellt werden. Dabei gelten folgende Anforderungen:
-- Die beiden Vorderreifen müssen innerhalb einer Toleranz von 3 PSI den gleichen Druck haben
-- Die beiden Hinterreifen müssen innerhalb einer Toleranz von 3 PSI den gleichen Druck haben
-- Jeder Reifen muss einen Druck im Bereich von 35 bis 45 PSI haben
- */
 
 public class TyrePressureTests {
 
