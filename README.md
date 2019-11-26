@@ -3,11 +3,17 @@
 ![](./imgs/if-else.png)
 
 Folgende Aufgaben sind enthalten
-* [getMaximum](./src/getMaximum/task.md)
-* [calculator](./src/calculator/task.md)
-* [maexchen](./src/maexchen/task.md)
-* [dateValidation](./src/dateValidation/task.md)
-* [gradesWithIHKScheme](./src/gradesWithIHKScheme/task.md)
+#####einfache If-Anweisungen
 * [discount](./src/discount/task.md)
-* [tyre pressure](./src/tyre_pressure/task.md)
+* [discount2](./src/discount2/task.md)
+---
+#####verschachtelte If-Anweisungen
+* [Maximum](./src/getMaximum/task.md)
+* [Calculator](./src/calculator/task.md)
+* [maexchen](./src/maexchen/task.md)
+* [DateValidation](./src/dateValidation/task.md)
+* [Grades](./src/gradesWithIHKScheme/task.md)
+* [Tyre pressure](./src/tyre_pressure/task.md)
+* [Median](./src/median/task.md)
+* [Morse](./src/morse/task.md)
 

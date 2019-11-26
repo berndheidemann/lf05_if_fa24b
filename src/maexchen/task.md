@@ -6,7 +6,7 @@
 2.	Ein Wurf mit zwei gleichen Augenzahlen wird als „Pasch“ bezeichnet und ist 100 * Augenzahl wert. Der Wurf 4, 4 hat also den Wert 400.
 3.	Ansonsten ergibt sich die Punktzahl als 10 * höhere Augenzahl + niedrigere Augenzahl. Der Wurf 3, 5 hat beispielsweise die Punktzahl 53.
 
-###Aufgaben:
+###Aufgaben
 
 Schreibe ein Programm, das die Augenzahl von zwei Würfeln von der Konsole einliest und den Wert des Wurfes ausgibt:
 ```
