@@ -1,4 +1,4 @@
-#Morsen
+#Morsen*
 Ziffern werden im Morse-Alphabet durch jeweils 5 Zeichen folgendermaßen dargestellt:
 
 <table>

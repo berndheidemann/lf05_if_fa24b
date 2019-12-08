@@ -1,4 +1,4 @@
-#Taschenrechner
+#Taschenrechner*
 
 Es soll ein einfacher Taschenrechner programmiert werden, der die Rechenoperationen +, -, * und  / unterstützt.
 

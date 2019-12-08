@@ -1,4 +1,4 @@
-#Versandhandel
+#Versandhandel*
 
 Ein Versandgeschäft berechnet bei Aufträgen unter 100 € einen Zuschlag für Porto von 2 Euro. Bei Aufträgen unterhalb von 250 Euro fällt ein Verpackungszuschlag von 5 Euro an. Der Versandhandel gewährt bei Aufträgen ab 500 Euro einen Rabatt von 5%. 
 ###Aufgaben

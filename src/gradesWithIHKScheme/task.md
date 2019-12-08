@@ -1,4 +1,4 @@
-#IHK-Schema
+#IHK-Schema*
 
 Es ist ein Programm zu erstellen, das anhand der erreichten Punktzahl und der insgesamt zu erreichenden Punkte die Schulnote nach dem IHK-Schema ermittelt. Wie bei deinen Klassenarbeiten werden die erreichten Prozente auf null Nachkommastellen gerundet.
 
