@@ -7,8 +7,12 @@ Folgende Aufgaben sind enthalten
 
 Infoblatt: [IB If-Anweisungen](./IB If-Anweisungen.md)
 
+* [weather*](./src/weather/task.md)
 * [discount*](./src/discount/task.md)
 * [discount2*](./src/discount2/task.md)
+* [sort**](./src/sort/task.md)
+* [deathValley**](./src/deathValley/task.md)
+
 ---
 #####verschachtelte If-Anweisungen
 
