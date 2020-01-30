@@ -50,11 +50,11 @@ Die Einrückung suggeriert, dass das else die Alternative zur ersten if-Anweisun
 ###Fallunterscheidungen mittels if-else-Leiter
 Häufig müssen Programme eine Auswahl unter beliebig verschiedenen Alternativen treffen. Solche so genannten Fallunterscheidungen können mit einer if-else-Leiter umgesetzt werden. Ein Beispiel wäre die Ermittlung eines Rechnungsendbetrags unter Berücksichtigung verschiedener Rabatte. Dabei soll folgende Rabattstaffel gelten:
 
-Kundentyp | Rabattsatz 
--------- | --------      
-A | 15%
-B | 10%
-C | 5%
+Kundentyp | Rabattsatz
+---|---     
+A | 15% 
+B | 10% 
+C | 5% 
 D | 0%  
 
 Bei Fallunterscheidungen ist das Ziel der jeweiligen else-Zweige wieder eine if-Anweisung (vgl. Struktogramm). Das letzte else arbeitet in der Regel den Default-Fall ab.  
