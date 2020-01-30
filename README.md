@@ -3,7 +3,7 @@
 
 
 Folgende Aufgaben sind enthalten
-#####einfache If-Anweisungen
+###einfache If-Anweisungen
 
 Infoblatt: [IB If-Anweisungen](./IB If-Anweisungen.md)
 
@@ -14,7 +14,7 @@ Infoblatt: [IB If-Anweisungen](./IB If-Anweisungen.md)
 * [deathValley**](./src/deathValley/task.md)
 
 ---
-#####verschachtelte If-Anweisungen
+###verschachtelte If-Anweisungen
 
 Infoblatt: [IB Verschachtelte If-Anweisungen und Fallunterscheidungen](./IB Verschachtelte If-Anweisungen.md)
 
