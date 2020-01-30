@@ -11,6 +11,7 @@ pipelines:
         script:
           - echo "Everything is awesome!"
           - git rm --cached -r */solution.md
-          - git remote add work https://berndheidemann@bitbucket.org/szut_anwend/lf5_if_work.git
+          - git rm --cached -r bitbucket-pipelines.yml
+          - git remote set-url work https://b.heidemann:Szut12345!@bitbucket.org/szut_anwend/lf5_if_work.git
           - git commit -m "process-ci"
           -  git push work master
