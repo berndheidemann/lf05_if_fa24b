@@ -14,4 +14,4 @@ pipelines:
           - git rm --cached -r bitbucket-pipelines.yml
           - git remote add work https://szut_anwend_user:Szut12345!@bitbucket.org/szut_anwend/lf5_if_work.git
           - git commit -m "process-ci"
-          - git push work master
+          - git push work master --force
