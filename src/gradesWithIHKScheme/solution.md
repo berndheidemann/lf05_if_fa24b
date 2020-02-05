@@ -8,9 +8,7 @@ public int calculateGrade(double points, int reachablePoints){
             return -1;
         }
         percent = points/reachablePoints*100;
-        System.out.println(percent);
         percent = Math.round(percent);
-        System.out.println(percent);
         if (percent < 30) {
             result = 6;
         }

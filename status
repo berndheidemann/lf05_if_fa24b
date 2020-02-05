@@ -1,0 +1,183 @@
+[33mcommit 2587591a9bbdbb38e36d1eca4a238516a6dbaa9b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Thu Jan 30 18:47:31 2020 +0100
+
+    letzte Änderungen
+
+[33mcommit 4ed5c660af8280f0476fccebf84613ee446f64f4[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Tue Dec 10 18:46:40 2019 +0100
+
+    Horoskop-aufgabe hinzugefügt
+
+[33mcommit 88d03d8fc9f54cd4cb6ba89b556e309e88236915[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Mon Dec 9 11:48:54 2019 +0100
+
+    Aufgaben zu einfachen If_anweisungen hinzugefügt
+
+[33mcommit 24146e08ad61f06d1f06eebd9de5c3d500f9b53a[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Sun Dec 8 13:15:01 2019 +0100
+
+    Train in Byteburg hinzugefügt
+
+[33mcommit 13005347f50766e959019a4def032eb622e6d54e[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Mon Dec 2 15:46:02 2019 +0100
+
+    Informationsblätter hinzugefügt
+
+[33mcommit 24ebd931428b273bb2bdc92870e880d7f4f676ba[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Tue Nov 26 15:07:19 2019 +0100
+
+    Aufgaben Rabatt, Median, Morsen hinzugefügt
+
+[33mcommit f13eae33678808fe3dc6862bcbca2d9a79fcbd5c[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Mon Nov 25 19:33:40 2019 +0100
+
+    Aufgabenstellungen für Mäxchen, Maximum, Taschenrechner, Datumsprüfung und IHK-schema
+
+[33mcommit 2c15586fe1d8fa9ddd3b00e6bf67054d6ab98b5f[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Sun Nov 24 20:36:05 2019 +0100
+
+    Aufgabenstellungen zu den Aufgaben fehlen noch
+
+[33mcommit 5d7e567e1636edf7e79b644f8b144b9263c86816[m
+Merge: 204706c 1600af6
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Sun Nov 24 20:31:02 2019 +0100
+
+    Merge branch 'master' of https://github.com/berndheidemann/lf5_if
+
+[33mcommit 204706c41716af30b6a3194a0b58bb91e273d17e[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Sun Nov 24 19:57:30 2019 +0100
+
+    diverse_neue_Aufgaben
+
+[33mcommit 1600af6f792a8783cb99579b8f20d69637056dae[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Fri Nov 1 10:08:56 2019 +0100
+
+    readme fixed
+
+[33mcommit 4fd380fde1e5fd488f9d0d32ab59d8e2478f037e[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Fri Nov 1 10:07:39 2019 +0100
+
+    discount und task für tyre pressure
+
+[33mcommit 6c98c7213c037fd4f5a4d7ec429b0c1f3227c6d9[m
+Merge: c4fd5e7 1b67de6
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Fri Nov 1 09:32:06 2019 +0100
+
+    Merge branch 'master' of https://github.com/berndheidemann/lf5_if
+
+[33mcommit c4fd5e79faf640d8dcc72c4c1fad65b338c69954[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Fri Nov 1 09:31:36 2019 +0100
+
+    gitignore changed
+
+[33mcommit 1b67de628a674c477f2fc570c0d6e399cabcecf3[m
+Author: berndheidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 18:08:51 2019 +0100
+
+    Create README.md
+
+[33mcommit 9a2375814ff2143cc5b3116322b4aeebd5701e37[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 17:41:26 2019 +0100
+
+    Bild added
+
+[33mcommit 4fd508f95d25f5e948921b21225adb6e63ab0e55[m
+Author: berndheidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 17:35:29 2019 +0100
+
+    Add files via upload
+
+[33mcommit 1c124666c65061dd6d9f14f7ee1c93672b424a4b[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 17:32:33 2019 +0100
+
+    Solution Maex added
+
+[33mcommit 184b69f935071ff919a362173242cc162b044613[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Wed Oct 30 17:22:29 2019 +0100
+
+    Worddatei geändert
+
+[33mcommit 4a0867a743145a68044a437cb96e9d7525ad1a67[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 17:21:02 2019 +0100
+
+    word File added
+
+[33mcommit ae1c7e05cc3b0c91626ca59bdaf3d9294f56b24c[m
+Merge: 1caece5 62507ab
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Wed Oct 30 17:12:45 2019 +0100
+
+    Merged
+
+[33mcommit 1caece5cf2659ffb3b1729806777320f72c58d68[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Wed Oct 30 17:09:08 2019 +0100
+
+    discount 2001
+
+[33mcommit 62507ab77227bd0a53bf85f6239085b0e2992789[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 17:08:24 2019 +0100
+
+    discount changed
+
+[33mcommit ff0af4b1bc58fd4449327dfc75fed7cd314ccd17[m
+Merge: 4ecfc58 0ccb98a
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 17:06:24 2019 +0100
+
+    Merge branch 'master' of https://github.com/berndheidemann/lf5_if
+
+[33mcommit 0ccb98a1e23dea8edfbeaf623ef651042494ee7b[m
+Author: Soeren2208 <s.schwerk@schule.bremen.de>
+Date:   Wed Oct 30 17:04:26 2019 +0100
+
+    Maexchen
+
+[33mcommit 4ecfc58d916744b10f4f86e2c1409ce85f383bfa[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 17:00:39 2019 +0100
+
+    typo in discount
+
+[33mcommit f8ba131543b032fb67f40a36b7c1c86fbbc71329[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 16:58:48 2019 +0100
+
+    discount
+
+[33mcommit 6020b94ab3b93891247542c72e209b33a799d8fa[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 16:27:58 2019 +0100
+
+    foo
+
+[33mcommit 3d9a15a0e3a1e7438db61379f1a4e7520783c8b2[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 16:26:18 2019 +0100
+
+    Tyre Pressure added
+
+[33mcommit 1a0cf0f901b7f4fb79b249b43d4be46e5e8486cc[m
+Author: Bernd Heidemann <bernd.heidemann@googlemail.com>
+Date:   Wed Oct 30 16:25:22 2019 +0100
+
+    Tyre Pressure added
