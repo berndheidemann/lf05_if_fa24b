@@ -3,10 +3,4 @@ Während einer Sonderaktion wird ein Rabatt von 10% auf alle Einkäufe mit einem
  
 ###Aufgaben
 
-1. Implementiere in der Klasse `DiscountCalc` die Methode `public int calc(int i)`, der der Gesamtbetrag als Ganzzahl in der Einheit Cent übergeben wird, den Enbetrag in Cent berechnet und zurückgibt. 
-```
-Auftragshöhe: 80
-Verpackungszuschlag: 5,00 EUR
-Porto: 2,00 EUR
-Endpreis: 87,00 EUR
-``` 
+1. Implementiere in der Klasse `DiscountCalc` die Methode `public int calc(int amount)`, der der Gesamtbetrag als Ganzzahl in der Einheit Cent übergeben wird, den Enbetrag in Cent berechnet und zurückgibt. 
