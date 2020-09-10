@@ -7,20 +7,20 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class DiscountCalcTest {
 
     @Test
-    public void given2000_whencalc_ThenReturn1800() {
+    public void given2000_whenCalc_ThenReturn1800() {
         DiscountCalc discount=new DiscountCalc();
         assertEquals(1800, discount.calc(2000));
     }
 
     @Test
-    public void given300_whencalc_ThenReturn300() {
+    public void given300_whenCalc_ThenReturn300() {
         DiscountCalc discount=new DiscountCalc();
         assertEquals(300, discount.calc(300));
     }
 
     @Test
-    public void given3000_whencalc_ThenReturn2700() {
+    public void given1000_whenCalc_ThenReturn1000() {
         DiscountCalc discount=new DiscountCalc();
-        assertEquals(3000, discount.calc(2700));
+        assertEquals(1000, discount.calc(1000));
     }
 }

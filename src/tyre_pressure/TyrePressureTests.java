@@ -1,16 +1,15 @@
 package tyre_pressure;
 
-import jdk.jfr.StackTrace;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TyrePressureTests {
 
     @Test
     public void test_calc() {
         TyrePressureCalculator calculator=new TyrePressureCalculator();
-        assertEquals(false, calculator.calc(34, 37, 46, 47));
+        assertEquals(true, calculator.calc(34, 37, 46, 47));
         assertEquals(false, calculator.calc(38, 43, 45, 45));
         assertEquals(false, calculator.calc(34, 37, 46, 42));
         assertEquals(true, calculator.calc(38, 41, 39, 39));
