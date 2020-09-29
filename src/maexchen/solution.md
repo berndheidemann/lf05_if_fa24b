@@ -1,4 +1,4 @@
-**Lösung Maexchen**
+###Lösung Maexchen**
 
 ```
 public int calculatePoints(int throw1, int throw2){
