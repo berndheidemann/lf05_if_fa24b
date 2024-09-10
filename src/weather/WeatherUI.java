@@ -1,10 +1,26 @@
 package weather;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class WeatherUI {
 
     public static void main(String[] args) {
+
+
+        List<Integer> data=new ArrayList<>();
+        for (int i = 0; i < 10; i++) {
+            data.add(i);
+        }
+
+        // get a slice of the list 3:7
+        List<Integer> slice=data.subList(3, 7);
+        for (Integer integer : slice) {
+            System.out.println(integer);
+        }
+
+
 
         Scanner scan=new Scanner(System.in);
         System.out.print("Geben Sie eine Temperatur ein: ");
